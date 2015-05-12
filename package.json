@@ -13,7 +13,8 @@
     "express": "^4.12.3",
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
-    "mongoose": "^4.0.2"
+    "mongoose": "^4.0.2",
+    "mongoose-validator": "^1.0.3"
   },
   "devDependencies": {
     "chai": "^2.3.0",
